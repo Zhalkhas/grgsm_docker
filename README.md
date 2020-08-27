@@ -1,7 +1,7 @@
 # GRGSM DOCKER
 
-This docker image was created for R0 Crew report "Software Defined Radio for Dummies"
-Tested on bladeRF
+This docker image was created for R0 Crew report "Software Defined Radio for Dummies".
+Image tested on bladeRF.
 Image contains:
 * GNURadio: powerful tool for software radio implementation
 * gr-gsm: tool for GSM traffic capture and decoding using GNURadio
